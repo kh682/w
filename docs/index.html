@@ -4,7 +4,10 @@
 <script>
     let val = window.location.href.split("?")[1]
     let url = "https://invite.p90azy.cn/"
-    window.location.href= url + "?"+ val
+    if(val) {
+        url = url + "?" + val
+    }
+    window.location.href= url
 </script>
 <body>
 </body>
