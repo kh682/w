@@ -2,11 +2,14 @@
 <head>
 </head>
 <script>
+	let host = "p90azy.cn"
+
     let val = window.location.href.split("?")[1]
-    let url = "https://invite.p90azy.cn/"
+    let url = "https://invite." + host
     if(val) {
         url = url + "?" + val
     }
+    console.log(url, val)
     window.location.href= url
 </script>
 <body>
