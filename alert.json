@@ -1,10 +1,10 @@
 {
-	"check_interval": 1,
-	"report_interval": 2,
-	"title": "超级机告警1",
+	"check_interval": 10,
+	"report_interval": 30,
+	"title": "超级机告警",
 
 	"max_cpu": 92,
-	"max_mem": 10,
-	"max_disk": 90,
+	"max_mem": 92,
+	"max_disk": 92,
 	"sc_keys": ["SCU27294T0d8657096c7ecebaf6b903ac504040b05b0f63d87d365"]
 }
