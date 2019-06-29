@@ -5,6 +5,6 @@
 
 	"max_cpu": 92,
 	"max_mem": 92,
-	"max_disk": 92,
+	"max_disk": 90,
 	"sc_keys": ["SCU27294T0d8657096c7ecebaf6b903ac504040b05b0f63d87d365"]
 }
