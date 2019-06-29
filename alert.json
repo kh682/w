@@ -1,6 +1,6 @@
 {
 	"check_interval": 1,
-	"report_interval": 1,
+	"report_interval": 2,
 	"max_cpu": 10,
 	"max_mem": 10,
 	"max_disk": 10,
