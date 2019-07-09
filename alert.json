@@ -1,7 +1,6 @@
 {
 	"check_interval": 10,
 	"report_interval": 30,
-	"title": "超级机告警",
 
 	"max_cpu": 92,
 	"max_mem": 92,
